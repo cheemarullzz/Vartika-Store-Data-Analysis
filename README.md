@@ -17,7 +17,7 @@ The Vartika Store wants to create an annual sales report for 2025. So that, the 
 
 - Dashboard Interaction
 
-- ## Process
+- # Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
